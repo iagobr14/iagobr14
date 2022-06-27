@@ -1,0 +1,4 @@
+- 👋 ola meu nome e iago
+- 👍meu email de contato e iago.francaro@escola.pr.gov.br
+- 👀 eu estou interessado em aprender novas linguagens
+- 🌱 eu estou aprendeno a programar recentemente a linguagem de javascript e scrath
